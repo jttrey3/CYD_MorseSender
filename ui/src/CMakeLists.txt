@@ -1,0 +1,8 @@
+SET(SOURCES ui_Send_Screen.c
+    ui_Config_Screen.c
+    ui_Keyboard__Screen.c
+    ui.c
+    ui_comp_hook.c
+    ui_helpers.c)
+
+add_library(ui ${SOURCES})

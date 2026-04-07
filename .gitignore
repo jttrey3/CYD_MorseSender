@@ -1,0 +1,12 @@
+# Arduino IDE backup files
+*.ino-*
+*.bak
+*.orig
+
+# OS clutter
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build output
+build/
